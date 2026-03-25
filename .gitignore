@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+training_history.json
+schwaechen.json
+*.pdf

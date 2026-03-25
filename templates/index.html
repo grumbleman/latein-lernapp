@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latein-Lernapp</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Latein-Lernapp<span class="title-subtitle">Grammatik-Wiederholung zur Prüfungsvorbereitung</span></h1>
+
+        <!-- Hauptmenü -->
+        <div id="main-menu" class="main-menu">
+            <div class="name-input-row">
+                <label for="trainer-name-input">Dein Name:</label>
+                <input type="text" id="trainer-name-input" placeholder="Name eingeben…" autocomplete="off">
+            </div>
+            <button id="history-button" class="button button-secondary hidden">Trainingsverlauf</button>
+
+            <div class="menu-options">
+                <h2>Was möchtest du tun?</h2>
+                <button id="start-exam-button" class="button" disabled>Alle Fragen üben (97 Fragen)</button>
+                <button id="practice-category-button" class="button" disabled>Fragen üben (je Kategorie)</button>
+                <button id="schwaechen-button" class="button button-schwaechen" disabled>Schwächen-Training (0 Fragen)</button>
+            </div>
+
+            <div class="stats-section">
+                <h2>Statistiken</h2>
+                <p>Gesamtzahl der Fragen: <span id="total-questions">0</span></p>
+                <h3>Fragen pro Kategorie:</h3>
+                <ul id="category-stats"></ul>
+            </div>
+        </div>
+
+        <!-- Fragekarte -->
+        <div id="question-card" class="question-card hidden">
+            <div class="question-progress">
+                <span>Frage <span id="current-question-number">0</span> von <span id="total-questions-in-set">0</span></span>
+                <button id="review-answers-button" class="review-answers-btn hidden">Überprüfen (0)</button>
+                <span id="live-score" class="live-score hidden"></span>
+            </div>
+            <p class="sachgebiet" id="sachgebiet"></p>
+            <p class="frage-text" id="frage-text"></p>
+            <div class="antwort-optionen" id="antwort-optionen"></div>
+            <div id="feedback" class="feedback"></div>
+            <button id="next-button" class="button" disabled>Nächste Frage</button>
+            <button id="back-to-menu-button" class="button">Zurück zum Menü</button>
+        </div>
+
+        <!-- Modal: Kategorie wählen -->
+        <div id="practice-modal" class="modal hidden">
+            <div class="modal-content">
+                <h2>Fragen üben nach Kategorie</h2>
+                <label for="category-select">Kategorie wählen:</label>
+                <select id="category-select"></select>
+                <label for="num-questions-select">Anzahl Fragen:</label>
+                <select id="num-questions-select">
+                    <option value="5">5</option>
+                    <option value="10">10</option>
+                    <option value="20">20</option>
+                    <option value="all">Alle</option>
+                </select>
+                <button id="start-practice-button" class="button">Start</button>
+                <button id="close-practice-modal" class="button">Abbrechen</button>
+            </div>
+        </div>
+
+        <!-- Trainingsverlauf -->
+        <div id="history-display" class="history-display hidden">
+            <div class="fish-lore-top-bar">
+                <h2>Trainingsverlauf</h2>
+                <button id="back-from-history-button" class="button button-secondary">Zurück zum Menü</button>
+            </div>
+            <div class="history-filter-row">
+                <label for="history-name-filter">Name:</label>
+                <select id="history-name-filter"><option value="">Alle</option></select>
+            </div>
+            <div id="history-list" class="history-list"></div>
+        </div>
+    </div>
+
+    <!-- Review Modal -->
+    <div id="review-modal" class="review-modal hidden">
+        <div class="review-modal-content">
+            <div class="review-modal-header">
+                <h3>Beantwortete Fragen</h3>
+                <button id="close-review-modal" class="fish-detail-close">&times;</button>
+            </div>
+            <div id="review-modal-list" class="review-modal-list"></div>
+        </div>
+    </div>
+
+    <!-- Toast -->
+    <div id="save-toast" class="save-toast hidden"></div>
+
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>

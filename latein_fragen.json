@@ -1,0 +1,1166 @@
+[
+  {
+    "id": "lat_001",
+    "sachgebiet": "Substantive – Deklination",
+    "frage": "Welcher Deklinationsklasse gehört \"villa\" (das Landhaus) an?",
+    "optionen": [
+      "a-Deklination (1. Deklination)",
+      "o-Deklination (2. Deklination)",
+      "konsonantische Deklination (3. Deklination)",
+      "u-Deklination (4. Deklination)"
+    ],
+    "korrekte_antwort": "a-Deklination (1. Deklination)"
+  },
+  {
+    "id": "lat_002",
+    "sachgebiet": "Substantive – Deklination",
+    "frage": "Welcher Deklinationsklasse gehört \"servus\" (der Sklave) an?",
+    "optionen": [
+      "o-Deklination (2. Deklination)",
+      "a-Deklination (1. Deklination)",
+      "konsonantische Deklination (3. Deklination)",
+      "e-Deklination (5. Deklination)"
+    ],
+    "korrekte_antwort": "o-Deklination (2. Deklination)"
+  },
+  {
+    "id": "lat_003",
+    "sachgebiet": "Substantive – Deklination",
+    "frage": "Was ist die Nominativ-Endung der a-Deklination im Singular?",
+    "optionen": [
+      "-a",
+      "-us",
+      "-um",
+      "-ae"
+    ],
+    "korrekte_antwort": "-a"
+  },
+  {
+    "id": "lat_004",
+    "sachgebiet": "Substantive – Deklination",
+    "frage": "Was ist der Ablativ Singular von \"villa\" (a-Deklination)?",
+    "optionen": [
+      "villa (Abl. Sg.)",
+      "villae",
+      "villam",
+      "villarum"
+    ],
+    "korrekte_antwort": "villa (Abl. Sg.)"
+  },
+  {
+    "id": "lat_005",
+    "sachgebiet": "Substantive – Deklination",
+    "frage": "Was ist der Ablativ Singular von \"amicus\" (Freund, o-Deklination)?",
+    "optionen": [
+      "amico",
+      "amici",
+      "amicum",
+      "amicis"
+    ],
+    "korrekte_antwort": "amico"
+  },
+  {
+    "id": "lat_006",
+    "sachgebiet": "Substantive – Deklination",
+    "frage": "Welche Fragen beantwortet der Ablativ typischerweise?",
+    "optionen": [
+      "womit? wo? wann? woher? wovon?",
+      "wen? was?",
+      "wessen?",
+      "wem? wohin?"
+    ],
+    "korrekte_antwort": "womit? wo? wann? woher? wovon?"
+  },
+  {
+    "id": "lat_007",
+    "sachgebiet": "Substantive – Deklination",
+    "frage": "Der Ablativ ist in der Schulgrammatik der ___. Fall.",
+    "optionen": [
+      "5.",
+      "3.",
+      "4.",
+      "6."
+    ],
+    "korrekte_antwort": "5."
+  },
+  {
+    "id": "lat_008",
+    "sachgebiet": "Substantive – Deklination",
+    "frage": "Was bedeutet \"sine amica\" (Ablativ)?",
+    "optionen": [
+      "ohne die Freundin",
+      "mit der Freundin",
+      "für die Freundin",
+      "wegen der Freundin"
+    ],
+    "korrekte_antwort": "ohne die Freundin"
+  },
+  {
+    "id": "lat_009",
+    "sachgebiet": "Substantive – Deklination",
+    "frage": "Was bedeutet \"ex villa\" (Ablativ mit Präposition)?",
+    "optionen": [
+      "aus dem Landhaus",
+      "in das Landhaus",
+      "an dem Landhaus",
+      "neben dem Landhaus"
+    ],
+    "korrekte_antwort": "aus dem Landhaus"
+  },
+  {
+    "id": "lat_010",
+    "sachgebiet": "Substantive – Deklination",
+    "frage": "Was bedeutet \"in villa\" (mit Ablativ, Lageangabe)?",
+    "optionen": [
+      "in dem Landhaus (Ortsangabe: Lage)",
+      "in das Landhaus (Richtung)",
+      "vor dem Landhaus",
+      "über dem Landhaus"
+    ],
+    "korrekte_antwort": "in dem Landhaus (Ortsangabe: Lage)"
+  },
+  {
+    "id": "lat_011",
+    "sachgebiet": "Substantive – Deklination",
+    "frage": "Was bedeutet \"cum amico\" (Ablativ mit Präposition)?",
+    "optionen": [
+      "mit dem Freund",
+      "ohne den Freund",
+      "für den Freund",
+      "wegen des Freundes"
+    ],
+    "korrekte_antwort": "mit dem Freund"
+  },
+  {
+    "id": "lat_012",
+    "sachgebiet": "Substantive – Deklination",
+    "frage": "Was ist der Genitiv Plural von \"villa\" (a-Deklination)?",
+    "optionen": [
+      "villarum",
+      "villas",
+      "villis",
+      "villae"
+    ],
+    "korrekte_antwort": "villarum"
+  },
+  {
+    "id": "lat_013",
+    "sachgebiet": "Substantive – Deklination",
+    "frage": "Nach welcher Präposition steht im Lateinischen der Ablativ, wenn eine Lage (wo?) ausgedrückt wird?",
+    "optionen": [
+      "in (+ Abl.)",
+      "in (+ Akk.)",
+      "ad (+ Akk.)",
+      "per (+ Akk.)"
+    ],
+    "korrekte_antwort": "in (+ Abl.)"
+  },
+  {
+    "id": "lat_014",
+    "sachgebiet": "Substantive – Deklination",
+    "frage": "Welche Endung hat der Genitiv Singular der a-Deklination?",
+    "optionen": [
+      "-ae",
+      "-arum",
+      "-am",
+      "-a"
+    ],
+    "korrekte_antwort": "-ae"
+  },
+  {
+    "id": "lat_015",
+    "sachgebiet": "Substantive – Deklination",
+    "frage": "Welcher Deklinationsklasse gehört \"exercitus\" (das Heer) an?",
+    "optionen": [
+      "u-Deklination (4. Deklination)",
+      "o-Deklination (2. Deklination)",
+      "konsonantische Deklination (3. Deklination)",
+      "a-Deklination (1. Deklination)"
+    ],
+    "korrekte_antwort": "u-Deklination (4. Deklination)"
+  },
+  {
+    "id": "lat_016",
+    "sachgebiet": "Verben – Konjugation",
+    "frage": "Welcher Konjugationsklasse gehört \"convocare\" (zusammenrufen) an?",
+    "optionen": [
+      "1. Konjugation (a-Konjugation)",
+      "2. Konjugation (e-Konjugation)",
+      "3. Konjugation (konsonantische)",
+      "4. Konjugation (i-Konjugation)"
+    ],
+    "korrekte_antwort": "1. Konjugation (a-Konjugation)"
+  },
+  {
+    "id": "lat_017",
+    "sachgebiet": "Verben – Konjugation",
+    "frage": "Welcher Konjugationsklasse gehört \"audire\" (hören) an?",
+    "optionen": [
+      "4. Konjugation (i-Konjugation)",
+      "1. Konjugation (a-Konjugation)",
+      "2. Konjugation (e-Konjugation)",
+      "3. Konjugation (konsonantische)"
+    ],
+    "korrekte_antwort": "4. Konjugation (i-Konjugation)"
+  },
+  {
+    "id": "lat_018",
+    "sachgebiet": "Verben – Konjugation",
+    "frage": "Welcher Konjugationsklasse gehört \"eripere\" (entreißen) an?",
+    "optionen": [
+      "3. Konjugation (konsonantische Konjugation)",
+      "1. Konjugation (a-Konjugation)",
+      "2. Konjugation (e-Konjugation)",
+      "4. Konjugation (i-Konjugation)"
+    ],
+    "korrekte_antwort": "3. Konjugation (konsonantische Konjugation)"
+  },
+  {
+    "id": "lat_019",
+    "sachgebiet": "Verben – Konjugation",
+    "frage": "Was ist die korrekte deutsche Übersetzung von \"convocaverunt\"?",
+    "optionen": [
+      "sie haben zusammengerufen (Perfekt)",
+      "sie rufen zusammen (Präsens)",
+      "sie werden zusammenrufen (Futur I)",
+      "sie riefen gerade zusammen (Imperfekt)"
+    ],
+    "korrekte_antwort": "sie haben zusammengerufen (Perfekt)"
+  },
+  {
+    "id": "lat_020",
+    "sachgebiet": "Verben – Konjugation",
+    "frage": "Was bedeutet \"audiebant\" (Imperfekt von \"audire\", 3. Pers. Pl.)?",
+    "optionen": [
+      "sie hörten / sie pflegten zu hören",
+      "sie haben gehört",
+      "sie hören",
+      "sie werden hören"
+    ],
+    "korrekte_antwort": "sie hörten / sie pflegten zu hören"
+  },
+  {
+    "id": "lat_021",
+    "sachgebiet": "Verben – Konjugation",
+    "frage": "Was bedeutet \"relicta est\" (Perfekt Passiv von \"relinquere\")?",
+    "optionen": [
+      "sie ist zurückgelassen worden / sie wurde zurückgelassen",
+      "sie verlässt",
+      "sie verließ (aktiv)",
+      "sie wird zurücklassen"
+    ],
+    "korrekte_antwort": "sie ist zurückgelassen worden / sie wurde zurückgelassen"
+  },
+  {
+    "id": "lat_022",
+    "sachgebiet": "Verben – Konjugation",
+    "frage": "Was bedeutet das lateinische Verb \"posse\"?",
+    "optionen": [
+      "können",
+      "wollen",
+      "gehen",
+      "tragen"
+    ],
+    "korrekte_antwort": "können"
+  },
+  {
+    "id": "lat_023",
+    "sachgebiet": "Verben – Konjugation",
+    "frage": "Was bedeutet das lateinische Verb \"velle\"?",
+    "optionen": [
+      "wollen",
+      "können",
+      "gehen",
+      "sein"
+    ],
+    "korrekte_antwort": "wollen"
+  },
+  {
+    "id": "lat_024",
+    "sachgebiet": "Verben – Konjugation",
+    "frage": "Was bedeutet das lateinische Verb \"ire\"?",
+    "optionen": [
+      "gehen",
+      "wollen",
+      "können",
+      "sagen"
+    ],
+    "korrekte_antwort": "gehen"
+  },
+  {
+    "id": "lat_025",
+    "sachgebiet": "Verben – Konjugation",
+    "frage": "Welche der folgenden Verbformen ist eindeutig im Passiv?",
+    "optionen": [
+      "obsessi eratis (ihr wart belagert)",
+      "convocaverunt (sie haben zusammengerufen)",
+      "audiebant (sie hörten)",
+      "circumvenerit (er hat eingekreist)"
+    ],
+    "korrekte_antwort": "obsessi eratis (ihr wart belagert)"
+  },
+  {
+    "id": "lat_026",
+    "sachgebiet": "Verben – Konjugation",
+    "frage": "Was bedeutet \"relinquebant\" (Imperfekt von \"relinquere\")?",
+    "optionen": [
+      "sie verließen / sie pflegten zu verlassen",
+      "sie haben verlassen",
+      "sie verlassen",
+      "sie werden verlassen"
+    ],
+    "korrekte_antwort": "sie verließen / sie pflegten zu verlassen"
+  },
+  {
+    "id": "lat_027",
+    "sachgebiet": "Verben – Konjugation",
+    "frage": "Übersetze: \"Tota urbe homines clamorem audiunt.\"",
+    "optionen": [
+      "In der ganzen Stadt hören die Menschen den Lärm.",
+      "Die Menschen der ganzen Stadt hörten den Lärm.",
+      "Alle Bürger der Stadt schreien laut.",
+      "Die ganze Stadt hört auf die Menschen."
+    ],
+    "korrekte_antwort": "In der ganzen Stadt hören die Menschen den Lärm."
+  },
+  {
+    "id": "lat_028",
+    "sachgebiet": "Konjunktiv",
+    "frage": "Wie lautet der Konjunktiv Präsens von \"monere\" (ermahnen) in der 3. Person Singular?",
+    "optionen": [
+      "moneat",
+      "monet",
+      "moneret",
+      "monuerit"
+    ],
+    "korrekte_antwort": "moneat"
+  },
+  {
+    "id": "lat_029",
+    "sachgebiet": "Konjunktiv",
+    "frage": "Wie lautet der Konjunktiv Imperfekt von \"monere\" in der 3. Person Singular?",
+    "optionen": [
+      "moneret",
+      "moneat",
+      "monuisset",
+      "monet"
+    ],
+    "korrekte_antwort": "moneret"
+  },
+  {
+    "id": "lat_030",
+    "sachgebiet": "Konjunktiv",
+    "frage": "Wie lautet der Konjunktiv Perfekt von \"monere\" in der 3. Person Singular?",
+    "optionen": [
+      "monuerit",
+      "moneat",
+      "moneret",
+      "monuisset"
+    ],
+    "korrekte_antwort": "monuerit"
+  },
+  {
+    "id": "lat_031",
+    "sachgebiet": "Konjunktiv",
+    "frage": "Wie lautet der Konjunktiv Plusquamperfekt von \"monere\" in der 3. Person Singular?",
+    "optionen": [
+      "monuisset",
+      "monuerit",
+      "moneret",
+      "moneat"
+    ],
+    "korrekte_antwort": "monuisset"
+  },
+  {
+    "id": "lat_032",
+    "sachgebiet": "Konjunktiv",
+    "frage": "Welches Tempus des Konjunktivs steht im Irrealis der Gegenwart (s.o.-Konditionalsatz)?",
+    "optionen": [
+      "Konjunktiv Imperfekt",
+      "Konjunktiv Präsens",
+      "Konjunktiv Perfekt",
+      "Konjunktiv Plusquamperfekt"
+    ],
+    "korrekte_antwort": "Konjunktiv Imperfekt"
+  },
+  {
+    "id": "lat_033",
+    "sachgebiet": "Konjunktiv",
+    "frage": "Welches Tempus des Konjunktivs steht im Irrealis der Vergangenheit (s.o.-Konditionalsatz)?",
+    "optionen": [
+      "Konjunktiv Plusquamperfekt",
+      "Konjunktiv Präsens",
+      "Konjunktiv Imperfekt",
+      "Konjunktiv Perfekt"
+    ],
+    "korrekte_antwort": "Konjunktiv Plusquamperfekt"
+  },
+  {
+    "id": "lat_034",
+    "sachgebiet": "Konjunktiv",
+    "frage": "Übersetze: \"Si in schola fuisses, ego te non monuissem.\"",
+    "optionen": [
+      "Wenn du in der Schule gewesen wärst, hätte ich dich nicht ermahnt.",
+      "Wenn du in der Schule wärst, würde ich dich nicht ermahnen.",
+      "Weil du in der Schule warst, habe ich dich nicht ermahnt.",
+      "Wenn du in die Schule gehst, ermahne ich dich nicht."
+    ],
+    "korrekte_antwort": "Wenn du in der Schule gewesen wärst, hätte ich dich nicht ermahnt."
+  },
+  {
+    "id": "lat_035",
+    "sachgebiet": "Konjunktiv",
+    "frage": "Übersetze: \"Scis, quis te monuerit.\"",
+    "optionen": [
+      "Du weißt, wer dich ermahnt hat.",
+      "Du weißt, wer dich ermahnen wird.",
+      "Du weißt, wer dich ermahnen würde.",
+      "Du weißt, wer dich ermahnt."
+    ],
+    "korrekte_antwort": "Du weißt, wer dich ermahnt hat."
+  },
+  {
+    "id": "lat_036",
+    "sachgebiet": "Konjunktiv",
+    "frage": "Übersetze: \"Tibi dico, ut maesta sim.\"",
+    "optionen": [
+      "Ich sage dir, dass ich traurig bin.",
+      "Ich sage dir, weil ich traurig bin.",
+      "Ich sage dir, obwohl ich traurig bin.",
+      "Ich sage dir, damit du traurig bist."
+    ],
+    "korrekte_antwort": "Ich sage dir, dass ich traurig bin."
+  },
+  {
+    "id": "lat_037",
+    "sachgebiet": "Konjunktiv",
+    "frage": "Übersetze: \"Hannibal paret, ut patri placeat.\"",
+    "optionen": [
+      "Hannibal gehorcht, damit er dem Vater gefällt.",
+      "Hannibal gehorcht, weil er dem Vater gefällt.",
+      "Hannibal gehorcht, obwohl er dem Vater gefällt.",
+      "Hannibal gehorcht, wenn er dem Vater gefällt."
+    ],
+    "korrekte_antwort": "Hannibal gehorcht, damit er dem Vater gefällt."
+  },
+  {
+    "id": "lat_038",
+    "sachgebiet": "Konjunktiv",
+    "frage": "Übersetze: \"Vivant mulieres!\"",
+    "optionen": [
+      "Es sollen leben die Frauen! (Optativ / Wunschsatz)",
+      "Die Frauen leben.",
+      "Die Frauen lebten.",
+      "Die Frauen sollen gelebt haben!"
+    ],
+    "korrekte_antwort": "Es sollen leben die Frauen! (Optativ / Wunschsatz)"
+  },
+  {
+    "id": "lat_039",
+    "sachgebiet": "Konjunktiv",
+    "frage": "Übersetze: \"Gaudeamus igitur!\"",
+    "optionen": [
+      "Lasst uns also fröhlich sein! (Kohortativ)",
+      "Wir sind also fröhlich.",
+      "Wir waren also fröhlich.",
+      "Wir werden also fröhlich sein."
+    ],
+    "korrekte_antwort": "Lasst uns also fröhlich sein! (Kohortativ)"
+  },
+  {
+    "id": "lat_040",
+    "sachgebiet": "Konjunktiv",
+    "frage": "Was ist die Grundregel zur Bildung des Konjunktiv Imperfekts?",
+    "optionen": [
+      "Infinitiv Präsens + Personalendungen (z.B. monere + t → moneret)",
+      "Präsensstamm + a + Personalendungen",
+      "Perfektstamm + isse + Personalendungen",
+      "Präsensstamm + e + Personalendungen"
+    ],
+    "korrekte_antwort": "Infinitiv Präsens + Personalendungen (z.B. monere + t → moneret)"
+  },
+  {
+    "id": "lat_041",
+    "sachgebiet": "Adjektive",
+    "frage": "Welcher Deklination folgt das Adjektiv \"novus, nova, novum\" (neu)?",
+    "optionen": [
+      "o/a-Deklination (2./1./2. Deklination)",
+      "konsonantische Deklination (3. Deklination)",
+      "u-Deklination (4. Deklination)",
+      "e-Deklination (5. Deklination)"
+    ],
+    "korrekte_antwort": "o/a-Deklination (2./1./2. Deklination)"
+  },
+  {
+    "id": "lat_042",
+    "sachgebiet": "Adjektive",
+    "frage": "Wie bildet man das Adverb von einem Adjektiv der o/a-Deklination (z.B. \"novus\")?",
+    "optionen": [
+      "Stamm + -e (→ nove)",
+      "Stamm + -iter (→ noviter)",
+      "Nominativform des Adjektivs + -mente",
+      "Stamm + -issime"
+    ],
+    "korrekte_antwort": "Stamm + -e (→ nove)"
+  },
+  {
+    "id": "lat_043",
+    "sachgebiet": "Adjektive",
+    "frage": "Wie bildet man das Adverb von einem Adjektiv der konsonantischen Deklination (z.B. \"acer\" – scharf)?",
+    "optionen": [
+      "Stamm + -iter (→ acriter)",
+      "Stamm + -e (→ acre)",
+      "Nominativform + -ment",
+      "Stamm + -issime"
+    ],
+    "korrekte_antwort": "Stamm + -iter (→ acriter)"
+  },
+  {
+    "id": "lat_044",
+    "sachgebiet": "Adjektive",
+    "frage": "Was ist der Komparativ von \"novus, a, um\" (neu)?",
+    "optionen": [
+      "novior, novius (m./f., n.)",
+      "novissimus, -a, -um",
+      "magis novus",
+      "novime"
+    ],
+    "korrekte_antwort": "novior, novius (m./f., n.)"
+  },
+  {
+    "id": "lat_045",
+    "sachgebiet": "Adjektive",
+    "frage": "Was ist der Superlativ von \"novus, a, um\" (neu)?",
+    "optionen": [
+      "novissimus, -a, -um",
+      "novior, novius",
+      "maxime novus",
+      "novius"
+    ],
+    "korrekte_antwort": "novissimus, -a, -um"
+  },
+  {
+    "id": "lat_046",
+    "sachgebiet": "Adjektive",
+    "frage": "Was ist der Superlativ von \"acer, acris, acre\" (scharf)?",
+    "optionen": [
+      "acerrimus, -a, -um",
+      "acrior, acrius",
+      "acerissimus, -a, -um",
+      "acrissimus, -a, -um"
+    ],
+    "korrekte_antwort": "acerrimus, -a, -um"
+  },
+  {
+    "id": "lat_047",
+    "sachgebiet": "Adjektive",
+    "frage": "Was ist der Komparativ von \"brevis\" (kurz)?",
+    "optionen": [
+      "brevior, brevius",
+      "brevissimus, -a, -um",
+      "breviter",
+      "brevus, a, um"
+    ],
+    "korrekte_antwort": "brevior, brevius"
+  },
+  {
+    "id": "lat_048",
+    "sachgebiet": "Adjektive",
+    "frage": "Übersetze: \"Navem novissimam videmus.\"",
+    "optionen": [
+      "Wir sehen das neueste Schiff.",
+      "Wir sehen ein sehr neues Schiff.",
+      "Wir sehen das neue Schiff.",
+      "Wir sehen ein neues Schiff."
+    ],
+    "korrekte_antwort": "Wir sehen das neueste Schiff."
+  },
+  {
+    "id": "lat_049",
+    "sachgebiet": "Adjektive",
+    "frage": "Übersetze: \"Gladiator gladio breviore pugnat.\"",
+    "optionen": [
+      "Der Gladiator kämpft mit einem kürzeren Schwert.",
+      "Der Gladiator kämpft mit dem kürzesten Schwert.",
+      "Der Gladiator kämpft mit einem kurzen Schwert.",
+      "Der Gladiator kämpft mit dem kurzen Schwert."
+    ],
+    "korrekte_antwort": "Der Gladiator kämpft mit einem kürzeren Schwert."
+  },
+  {
+    "id": "lat_050",
+    "sachgebiet": "Adjektive",
+    "frage": "Wie viele Endungen hat ein \"zweiendiges\" Adjektiv der konsonantischen Deklination im Nominativ?",
+    "optionen": [
+      "2 Endungen (m./f. gleich, n. anders – z.B. brevis / breve)",
+      "1 Endung (alle Genera gleich)",
+      "3 Endungen (m., f., n. verschieden)",
+      "4 Endungen"
+    ],
+    "korrekte_antwort": "2 Endungen (m./f. gleich, n. anders – z.B. brevis / breve)"
+  },
+  {
+    "id": "lat_051",
+    "sachgebiet": "Adjektive",
+    "frage": "Wie lautet das Adverb zu \"felix\" (glücklich, konsonantische Deklination)?",
+    "optionen": [
+      "feliciter (Stamm + -iter)",
+      "felice",
+      "felicissime",
+      "felix"
+    ],
+    "korrekte_antwort": "feliciter (Stamm + -iter)"
+  },
+  {
+    "id": "lat_052",
+    "sachgebiet": "nd-Formen (Gerundium & Gerundivum)",
+    "frage": "Was ist das Gerundium?",
+    "optionen": [
+      "ein zum Substantiv gemachtes Verb (Verbalsubstantiv), z.B. \"das Loben\"",
+      "ein zum Adjektiv gemachtes Verb",
+      "ein Partizip Präsens Aktiv",
+      "ein Partizip Perfekt Passiv"
+    ],
+    "korrekte_antwort": "ein zum Substantiv gemachtes Verb (Verbalsubstantiv), z.B. \"das Loben\""
+  },
+  {
+    "id": "lat_053",
+    "sachgebiet": "nd-Formen (Gerundium & Gerundivum)",
+    "frage": "Was ist das Gerundivum?",
+    "optionen": [
+      "ein zum Adjektiv gemachtes Verb (Verbaladjektiv), z.B. \"zu loben(d)\"",
+      "ein zum Substantiv gemachtes Verb",
+      "ein Partizip Präsens Aktiv",
+      "ein Partizip Futur Aktiv"
+    ],
+    "korrekte_antwort": "ein zum Adjektiv gemachtes Verb (Verbaladjektiv), z.B. \"zu loben(d)\""
+  },
+  {
+    "id": "lat_054",
+    "sachgebiet": "nd-Formen (Gerundium & Gerundivum)",
+    "frage": "Wie wird das Gerundium / Gerundivum gebildet?",
+    "optionen": [
+      "Präsensstamm + (e) + nd + Endung der o/a-Deklination",
+      "Präsensstamm + nt + Endung der o/a-Deklination",
+      "Perfektstamm + nd + Endung der o/a-Deklination",
+      "Präsensstamm + nd + Endung der i-Deklination"
+    ],
+    "korrekte_antwort": "Präsensstamm + (e) + nd + Endung der o/a-Deklination"
+  },
+  {
+    "id": "lat_055",
+    "sachgebiet": "nd-Formen (Gerundium & Gerundivum)",
+    "frage": "Was bedeutet \"ars fabulam narrandi\"?",
+    "optionen": [
+      "die Kunst, eine Geschichte zu erzählen",
+      "die Kunst der erzählten Geschichte",
+      "durch das Erzählen einer Geschichte",
+      "um eine Geschichte zu erzählen"
+    ],
+    "korrekte_antwort": "die Kunst, eine Geschichte zu erzählen"
+  },
+  {
+    "id": "lat_056",
+    "sachgebiet": "nd-Formen (Gerundium & Gerundivum)",
+    "frage": "Was bedeutet \"ad iuvenes docendum\"?",
+    "optionen": [
+      "um junge Männer zu erziehen (Finalsatz)",
+      "durch das Erziehen junger Männer",
+      "die jungen Männer, die erzogen werden müssen",
+      "wegen der Erziehung der jungen Männer"
+    ],
+    "korrekte_antwort": "um junge Männer zu erziehen (Finalsatz)"
+  },
+  {
+    "id": "lat_057",
+    "sachgebiet": "nd-Formen (Gerundium & Gerundivum)",
+    "frage": "Wie wird \"Libertas servanda est.\" übersetzt?",
+    "optionen": [
+      "Die Freiheit ist zu bewahren. / Die Freiheit muss bewahrt werden.",
+      "Die Freiheit wird bewahrt.",
+      "Die Freiheit wurde bewahrt.",
+      "Die Freiheit kann bewahrt werden."
+    ],
+    "korrekte_antwort": "Die Freiheit ist zu bewahren. / Die Freiheit muss bewahrt werden."
+  },
+  {
+    "id": "lat_058",
+    "sachgebiet": "nd-Formen (Gerundium & Gerundivum)",
+    "frage": "Was drückt das Gerundivum als Prädikat mit \"esse\" aus?",
+    "optionen": [
+      "eine Notwendigkeit / Pflicht (muss, soll, ist zu...)",
+      "eine Möglichkeit (kann)",
+      "eine vergangene Handlung",
+      "eine zukünftige Fähigkeit"
+    ],
+    "korrekte_antwort": "eine Notwendigkeit / Pflicht (muss, soll, ist zu...)"
+  },
+  {
+    "id": "lat_059",
+    "sachgebiet": "nd-Formen (Gerundium & Gerundivum)",
+    "frage": "Was bedeutet \"pericula sustinendo\" (Gerundium im Ablativ)?",
+    "optionen": [
+      "durch das Ertragen von Gefahren (modal)",
+      "um Gefahren zu ertragen",
+      "wegen der zu ertragenden Gefahren",
+      "nach dem Ertragen der Gefahren"
+    ],
+    "korrekte_antwort": "durch das Ertragen von Gefahren (modal)"
+  },
+  {
+    "id": "lat_060",
+    "sachgebiet": "nd-Formen (Gerundium & Gerundivum)",
+    "frage": "In welchem Fall steht das Gerundium / Gerundivum nach \"ad\", wenn ein Zweck (um zu...) ausgedrückt wird?",
+    "optionen": [
+      "Akkusativ",
+      "Genitiv",
+      "Dativ",
+      "Ablativ"
+    ],
+    "korrekte_antwort": "Akkusativ"
+  },
+  {
+    "id": "lat_061",
+    "sachgebiet": "nd-Formen (Gerundium & Gerundivum)",
+    "frage": "Übersetze: \"in ludos spectando\" (Gerundium, Ablativ).",
+    "optionen": [
+      "beim Schauen der Spiele",
+      "um die Spiele zu sehen",
+      "die zu schauenden Spiele",
+      "wegen des Schauens der Spiele"
+    ],
+    "korrekte_antwort": "beim Schauen der Spiele"
+  },
+  {
+    "id": "lat_062",
+    "sachgebiet": "Partizipien",
+    "frage": "Was ist das PPP (Partizip Perfekt Passiv) von \"laudare\" (loben)?",
+    "optionen": [
+      "laudatus, -a, -um (gelobt)",
+      "laudans",
+      "laudaturus, -a, -um",
+      "laudandus, -a, -um"
+    ],
+    "korrekte_antwort": "laudatus, -a, -um (gelobt)"
+  },
+  {
+    "id": "lat_063",
+    "sachgebiet": "Partizipien",
+    "frage": "Was ist das PPA (Partizip Präsens Aktiv) von \"laudare\" (loben)?",
+    "optionen": [
+      "laudans (lobend)",
+      "laudatus, -a, -um",
+      "laudaturus, -a, -um",
+      "laudandus, -a, -um"
+    ],
+    "korrekte_antwort": "laudans (lobend)"
+  },
+  {
+    "id": "lat_064",
+    "sachgebiet": "Partizipien",
+    "frage": "Was ist das PFA (Partizip Futur Aktiv) von \"laudare\" (loben)?",
+    "optionen": [
+      "laudaturus, -a, -um (der/die/das loben wird)",
+      "laudatus, -a, -um",
+      "laudans",
+      "laudandus, -a, -um"
+    ],
+    "korrekte_antwort": "laudaturus, -a, -um (der/die/das loben wird)"
+  },
+  {
+    "id": "lat_065",
+    "sachgebiet": "Partizipien",
+    "frage": "Nach welcher Deklination wird das PPP dekliniert?",
+    "optionen": [
+      "o/a-Deklination (wie novus, nova, novum)",
+      "konsonantische Deklination (3. Deklination)",
+      "u-Deklination",
+      "a-Deklination"
+    ],
+    "korrekte_antwort": "o/a-Deklination (wie novus, nova, novum)"
+  },
+  {
+    "id": "lat_066",
+    "sachgebiet": "Partizipien",
+    "frage": "Nach welcher Deklination wird das PPA dekliniert?",
+    "optionen": [
+      "konsonantische Deklination (3. Deklination, wie ein Adjektiv auf -ns/-ntis)",
+      "o/a-Deklination (2./1./2. Deklination)",
+      "u-Deklination",
+      "a-Deklination"
+    ],
+    "korrekte_antwort": "konsonantische Deklination (3. Deklination, wie ein Adjektiv auf -ns/-ntis)"
+  },
+  {
+    "id": "lat_067",
+    "sachgebiet": "Partizipien",
+    "frage": "Was ist das Participium Coniunctum (PC)?",
+    "optionen": [
+      "Ein Partizip als Beiwort zu einem Nomen des Hauptsatzes (kongruent in Kasus, Numerus, Genus)",
+      "Ein Partizip + eigenes Subjekt im Ablativ, unabhängig vom Hauptsatz",
+      "Ein Infinitiv mit Akkusativ-Subjekt",
+      "Ein Konjunktiv in einem Nebensatz"
+    ],
+    "korrekte_antwort": "Ein Partizip als Beiwort zu einem Nomen des Hauptsatzes (kongruent in Kasus, Numerus, Genus)"
+  },
+  {
+    "id": "lat_068",
+    "sachgebiet": "Partizipien",
+    "frage": "Was ist der Ablativus Absolutus (Abl. Abs.)?",
+    "optionen": [
+      "Partizip + eigenes Subjekt (beide im Ablativ), unabhängig vom Hauptsatz",
+      "Partizip als Beiwort zu einem Nomen im Hauptsatz",
+      "Dativ + Partizip im Ablativ",
+      "Akkusativ + Infinitiv (ACI)"
+    ],
+    "korrekte_antwort": "Partizip + eigenes Subjekt (beide im Ablativ), unabhängig vom Hauptsatz"
+  },
+  {
+    "id": "lat_069",
+    "sachgebiet": "Partizipien",
+    "frage": "Übersetze (PC mit PPA): \"Cicero omnia audens Verrem superavit.\"",
+    "optionen": [
+      "Cicero, der alles wagte, besiegte Verres.",
+      "Nachdem Cicero alles gewagt hatte, besiegte er Verres.",
+      "Weil Cicero alles wagte, besiegte er Verres.",
+      "Cicero und Verres wagten alles und besiegten einander."
+    ],
+    "korrekte_antwort": "Cicero, der alles wagte, besiegte Verres."
+  },
+  {
+    "id": "lat_070",
+    "sachgebiet": "Partizipien",
+    "frage": "Übersetze (PC mit PPP): \"Verres a Cicerone superatus in Massiliam fugit.\"",
+    "optionen": [
+      "Verres, von Cicero besiegt, floh nach Massilia.",
+      "Verres besiegte Cicero und floh nach Massilia.",
+      "Nachdem Verres Cicero besiegt hatte, floh er.",
+      "Verres wurde von Cicero besiegt, bevor er floh."
+    ],
+    "korrekte_antwort": "Verres, von Cicero besiegt, floh nach Massilia."
+  },
+  {
+    "id": "lat_071",
+    "sachgebiet": "Partizipien",
+    "frage": "Übersetze (Abl. Abs.): \"Hortensio superato, Cicero orator optimus fuit.\"",
+    "optionen": [
+      "Nachdem Hortensius besiegt worden war, war Cicero der beste Redner.",
+      "Weil Hortensius besiegt wurde, ist Cicero der beste Redner.",
+      "Obwohl Hortensius besiegt worden war, war Cicero nicht der beste Redner.",
+      "Hortensius besiegte Cicero, den besten Redner."
+    ],
+    "korrekte_antwort": "Nachdem Hortensius besiegt worden war, war Cicero der beste Redner."
+  },
+  {
+    "id": "lat_072",
+    "sachgebiet": "Partizipien",
+    "frage": "Übersetze (Abl. Abs. mit PPA): \"Cicerone consule, Catilina coniurationis initium inivit.\"",
+    "optionen": [
+      "Als Cicero Konsul war, begann Catilina den Verschwörungsplan.",
+      "Cicero, der Konsul, veranlasste Catilina zum Verschwörungsplan.",
+      "Nachdem Cicero Konsul geworden war, vollendete Catilina die Verschwörung.",
+      "Cicero wurde Konsul, weil Catilina die Verschwörung begann."
+    ],
+    "korrekte_antwort": "Als Cicero Konsul war, begann Catilina den Verschwörungsplan."
+  },
+  {
+    "id": "lat_073",
+    "sachgebiet": "Partizipien",
+    "frage": "Übersetze (Abl. Abs.): \"His rebus gestis, Caesar Romam redit.\"",
+    "optionen": [
+      "Nachdem diese Taten vollbracht worden waren, kehrte Caesar nach Rom zurück.",
+      "Caesar vollbrachte diese Taten und kehrte nach Rom zurück.",
+      "Wegen dieser Taten kehrte Caesar nach Rom zurück.",
+      "Diese Taten wurden von Caesar in Rom vollbracht."
+    ],
+    "korrekte_antwort": "Nachdem diese Taten vollbracht worden waren, kehrte Caesar nach Rom zurück."
+  },
+  {
+    "id": "lat_074",
+    "sachgebiet": "ACI (Accusativus cum Infinitivo)",
+    "frage": "Wofür steht die Abkürzung ACI?",
+    "optionen": [
+      "Accusativus cum Infinitivo (Akkusativ mit Infinitiv)",
+      "Ablativus cum Infinitivo",
+      "Accusativus contra Indicativum",
+      "Adiectivum cum Infinitivo"
+    ],
+    "korrekte_antwort": "Accusativus cum Infinitivo (Akkusativ mit Infinitiv)"
+  },
+  {
+    "id": "lat_075",
+    "sachgebiet": "ACI (Accusativus cum Infinitivo)",
+    "frage": "Wie wird der ACI typischerweise ins Deutsche übersetzt?",
+    "optionen": [
+      "als \"dass\"-Satz",
+      "als \"weil\"-Satz",
+      "als \"obwohl\"-Satz",
+      "als \"wenn\"-Satz"
+    ],
+    "korrekte_antwort": "als \"dass\"-Satz"
+  },
+  {
+    "id": "lat_076",
+    "sachgebiet": "ACI (Accusativus cum Infinitivo)",
+    "frage": "Nach welchen Verben steht typischerweise ein ACI?",
+    "optionen": [
+      "nach Verben des Sagens, Meinens, Glaubens (z.B. dicere, putare, credere)",
+      "nach Verben der Bewegung (z.B. ire, venire)",
+      "nach Verben des Fragens (z.B. rogare)",
+      "nach den Konjunktionen \"ut\" und \"ne\""
+    ],
+    "korrekte_antwort": "nach Verben des Sagens, Meinens, Glaubens (z.B. dicere, putare, credere)"
+  },
+  {
+    "id": "lat_077",
+    "sachgebiet": "ACI (Accusativus cum Infinitivo)",
+    "frage": "Was ist das Subjekt eines ACI-Satzes im Lateinischen?",
+    "optionen": [
+      "Es steht im Akkusativ (nicht im Nominativ)",
+      "Es steht im Nominativ",
+      "Es steht im Dativ",
+      "Es steht im Genitiv"
+    ],
+    "korrekte_antwort": "Es steht im Akkusativ (nicht im Nominativ)"
+  },
+  {
+    "id": "lat_078",
+    "sachgebiet": "ACI (Accusativus cum Infinitivo)",
+    "frage": "Übersetze: \"Cicero dicit Hortensius Verrem defendere.\"",
+    "optionen": [
+      "Cicero sagt, dass Hortensius Verres verteidigt. (Gleichzeitigkeit: Inf. Präs.)",
+      "Cicero sagt, dass Hortensius Verres verteidigt hat.",
+      "Cicero sagt, dass Hortensius Verres verteidigen wird.",
+      "Cicero befahl Hortensius, Verres zu verteidigen."
+    ],
+    "korrekte_antwort": "Cicero sagt, dass Hortensius Verres verteidigt. (Gleichzeitigkeit: Inf. Präs.)"
+  },
+  {
+    "id": "lat_079",
+    "sachgebiet": "ACI (Accusativus cum Infinitivo)",
+    "frage": "Übersetze: \"Cicero dicit Hortensius Verrem defendisse.\"",
+    "optionen": [
+      "Cicero sagt, dass Hortensius Verres verteidigt hat. (Vorzeitigkeit: Inf. Perf.)",
+      "Cicero sagt, dass Hortensius Verres verteidigt.",
+      "Cicero sagt, dass Hortensius Verres verteidigen wird.",
+      "Cicero sagt, Hortensius solle Verres verteidigen."
+    ],
+    "korrekte_antwort": "Cicero sagt, dass Hortensius Verres verteidigt hat. (Vorzeitigkeit: Inf. Perf.)"
+  },
+  {
+    "id": "lat_080",
+    "sachgebiet": "ACI (Accusativus cum Infinitivo)",
+    "frage": "Übersetze: \"Cicero dicit Hortensius Verrem defensurum esse.\"",
+    "optionen": [
+      "Cicero sagt, dass Hortensius Verres verteidigen wird. (Nachzeitigkeit: Inf. Fut.)",
+      "Cicero sagt, dass Hortensius Verres verteidigt.",
+      "Cicero sagt, dass Hortensius Verres verteidigt hat.",
+      "Cicero sagt, dass Hortensius Verres verteidigen möchte."
+    ],
+    "korrekte_antwort": "Cicero sagt, dass Hortensius Verres verteidigen wird. (Nachzeitigkeit: Inf. Fut.)"
+  },
+  {
+    "id": "lat_081",
+    "sachgebiet": "ACI (Accusativus cum Infinitivo)",
+    "frage": "Welcher Infinitiv drückt Gleichzeitigkeit zum Hauptverb aus?",
+    "optionen": [
+      "Infinitiv Präsens",
+      "Infinitiv Perfekt",
+      "Infinitiv Futur",
+      "Infinitiv Imperfekt (existiert nicht)"
+    ],
+    "korrekte_antwort": "Infinitiv Präsens"
+  },
+  {
+    "id": "lat_082",
+    "sachgebiet": "ACI (Accusativus cum Infinitivo)",
+    "frage": "Welcher Infinitiv drückt Vorzeitigkeit zum Hauptverb aus?",
+    "optionen": [
+      "Infinitiv Perfekt",
+      "Infinitiv Präsens",
+      "Infinitiv Futur",
+      "Infinitiv Plusquamperfekt (existiert nicht)"
+    ],
+    "korrekte_antwort": "Infinitiv Perfekt"
+  },
+  {
+    "id": "lat_083",
+    "sachgebiet": "ACI (Accusativus cum Infinitivo)",
+    "frage": "Wie lautet der Infinitiv Perfekt Aktiv von \"defendere\" (verteidigen)?",
+    "optionen": [
+      "defendisse",
+      "defendere",
+      "defensum esse",
+      "defensurum esse"
+    ],
+    "korrekte_antwort": "defendisse"
+  },
+  {
+    "id": "lat_084",
+    "sachgebiet": "ACI (Accusativus cum Infinitivo)",
+    "frage": "Übersetze: \"Cicero dicit Catilinam hostem rei publicae esse.\"",
+    "optionen": [
+      "Cicero sagt, dass Catilina ein Feind des Staates ist.",
+      "Cicero sagt, dass Catilina ein Feind des Staates war.",
+      "Cicero und Catilina sagen, sie seien Feinde des Staates.",
+      "Cicero, Catilines Feind, sagt etwas über den Staat."
+    ],
+    "korrekte_antwort": "Cicero sagt, dass Catilina ein Feind des Staates ist."
+  },
+  {
+    "id": "lat_085",
+    "sachgebiet": "ACI (Accusativus cum Infinitivo)",
+    "frage": "Übersetze: \"Cicero Siciliam provinciam a Verre vastatam esse dicit.\"",
+    "optionen": [
+      "Cicero sagt, dass die Provinz Sizilien von Verres verwüstet worden ist.",
+      "Cicero sagt, dass Verres Sizilien verwüstet.",
+      "Cicero sagt, dass Verres Sizilien verwüsten wird.",
+      "Verres sagt, dass Cicero Sizilien verwüstet hat."
+    ],
+    "korrekte_antwort": "Cicero sagt, dass die Provinz Sizilien von Verres verwüstet worden ist."
+  },
+  {
+    "id": "lat_086",
+    "sachgebiet": "Pronomina",
+    "frage": "Was ist das Possessivpronomen für \"mein\" im Lateinischen (m./f./n.)?",
+    "optionen": [
+      "meus, mea, meum",
+      "tuus, tua, tuum",
+      "noster, nostra, nostrum",
+      "suus, sua, suum"
+    ],
+    "korrekte_antwort": "meus, mea, meum"
+  },
+  {
+    "id": "lat_087",
+    "sachgebiet": "Pronomina",
+    "frage": "Was ist das Possessivpronomen für \"euer\" im Lateinischen (m./f./n.)?",
+    "optionen": [
+      "vester, vestra, vestrum",
+      "noster, nostra, nostrum",
+      "suus, sua, suum",
+      "tuus, tua, tuum"
+    ],
+    "korrekte_antwort": "vester, vestra, vestrum"
+  },
+  {
+    "id": "lat_088",
+    "sachgebiet": "Pronomina",
+    "frage": "Was bedeutet das Reflexivpronomen \"se\" auf Deutsch?",
+    "optionen": [
+      "sich (Reflexivpronomen der 3. Person Sg. und Pl.)",
+      "er / sie / es",
+      "wir",
+      "ihr"
+    ],
+    "korrekte_antwort": "sich (Reflexivpronomen der 3. Person Sg. und Pl.)"
+  },
+  {
+    "id": "lat_089",
+    "sachgebiet": "Pronomina",
+    "frage": "Was ist der Unterschied zwischen \"se\" und \"eum/eam\" als Akkusativ-Objekt?",
+    "optionen": [
+      "\"se\" verweist auf das Subjekt des Satzes zurück; \"eum/eam\" verweist auf eine andere Person",
+      "Es gibt keinen Unterschied",
+      "\"eum/eam\" verweist auf das Subjekt zurück",
+      "\"se\" ist nur im Plural möglich"
+    ],
+    "korrekte_antwort": "\"se\" verweist auf das Subjekt des Satzes zurück; \"eum/eam\" verweist auf eine andere Person"
+  },
+  {
+    "id": "lat_090",
+    "sachgebiet": "Pronomina",
+    "frage": "Was ist der Dativ des Interrogativpronomens \"quis, quid\" (wer? was?)?",
+    "optionen": [
+      "cui",
+      "quem",
+      "quod",
+      "quo"
+    ],
+    "korrekte_antwort": "cui"
+  },
+  {
+    "id": "lat_091",
+    "sachgebiet": "Pronomina",
+    "frage": "Was ist der Akkusativ des Relativpronomens \"qui, quae, quod\" im Maskulinum Singular?",
+    "optionen": [
+      "quem",
+      "cui",
+      "quo",
+      "quod"
+    ],
+    "korrekte_antwort": "quem"
+  },
+  {
+    "id": "lat_092",
+    "sachgebiet": "Pronomina",
+    "frage": "Was bedeutet das Demonstrativpronomen \"hic, haec, hoc\"?",
+    "optionen": [
+      "dieser, diese, dieses (auf Nahes hinweisend)",
+      "jener, jene, jenes",
+      "welcher, welche, welches",
+      "irgendeiner, irgendeine, irgendeines"
+    ],
+    "korrekte_antwort": "dieser, diese, dieses (auf Nahes hinweisend)"
+  },
+  {
+    "id": "lat_093",
+    "sachgebiet": "Pronomina",
+    "frage": "Was bedeutet das Demonstrativpronomen \"ille, illa, illud\"?",
+    "optionen": [
+      "jener, jene, jenes (auf Fernes hinweisend)",
+      "dieser, diese, dieses",
+      "welcher, welche, welches",
+      "derselbe, dieselbe, dasselbe"
+    ],
+    "korrekte_antwort": "jener, jene, jenes (auf Fernes hinweisend)"
+  },
+  {
+    "id": "lat_094",
+    "sachgebiet": "Pronomina",
+    "frage": "Wie lautet das Possessivpronomen \"mein\" im Akkusativ Singular Femininum?",
+    "optionen": [
+      "meam",
+      "mea",
+      "meum",
+      "mei"
+    ],
+    "korrekte_antwort": "meam"
+  },
+  {
+    "id": "lat_095",
+    "sachgebiet": "Pronomina",
+    "frage": "Welches Relativpronomen passt: \"Viam, _____ ad forum ducit, Viam Longam appellamus.\" (Nom. Sg. Fem.)?",
+    "optionen": [
+      "quae",
+      "qui",
+      "quod",
+      "quem"
+    ],
+    "korrekte_antwort": "quae"
+  },
+  {
+    "id": "lat_096",
+    "sachgebiet": "Pronomina",
+    "frage": "Was bedeutet \"Haec mulier mihi potionem dedit.\"?",
+    "optionen": [
+      "Diese Frau gab mir einen Trank.",
+      "Jene Frau gab mir einen Trank.",
+      "Welche Frau gab mir einen Trank?",
+      "Dieselbe Frau gab mir einen Trank."
+    ],
+    "korrekte_antwort": "Diese Frau gab mir einen Trank."
+  },
+  {
+    "id": "lat_097",
+    "sachgebiet": "Pronomina",
+    "frage": "Wie lautet die Deklination des Interrogativpronomens \"quis\" in der richtigen Reihenfolge (Nom. – Gen. – Dat. – Akk. – Abl.)?",
+    "optionen": [
+      "quis – cuius – cui – quem – quo",
+      "quis – cui – cuius – quem – quo",
+      "quis – quem – cui – cuius – quo",
+      "quis – quod – cui – quem – quibus"
+    ],
+    "korrekte_antwort": "quis – cuius – cui – quem – quo"
+  }
+]
